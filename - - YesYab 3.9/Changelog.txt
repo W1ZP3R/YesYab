@@ -1,0 +1,18 @@
+New changes on :
+
+<Page's>
+Index.html
+Page-5.html
+Page-6.html
+Page-7.html
+
+<Style's>
+
+Bootstrap.css
+Style.css
+Custom.css
+
+<Description's>
+
+Responsive Menu changed
+Responsive action in Tablet or Phone mode
